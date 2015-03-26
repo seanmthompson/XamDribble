@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="iOS/XamDribbble.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamDribbble/FeedClient.cs">
+    <Files>
+      <File FileName="XamDribbble/App.cs" Line="1" Column="1" />
+      <File FileName="XamDribbble/FeedClient.cs" Line="15" Column="89" />
+      <File FileName="XamDribbble/DribbleShot.cs" Line="1" Column="1" />
+      <File FileName="XamDribbble/Player.cs" Line="1" Column="1" />
+      <File FileName="XamDribbble/ShotsListPage.cs" Line="1" Column="1" />
+      <File FileName="XamDribbble/ShotsListView.cs" Line="1" Column="1" />
+      <File FileName="XamDribbble/DetailPage.cs" Line="1" Column="1" />
+      <File FileName="XamDribbble/ShotCell.cs" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

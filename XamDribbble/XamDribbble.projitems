@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{FBDD1545-033C-498D-AC4A-49F662F6380F}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>XamDribbble</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)FeedClient.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DribbleShot.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Player.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)App.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ShotsListPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ShotsListView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DetailPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ShotCell.cs" />
+  </ItemGroup>
+</Project>
